@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Primeiro Treinamentoo</string>
+    <string name="product1">Arroz</string>
+    <string name="brand1">Prato Fino</string>
+    <string name="product2">Feijão</string>
+    <string name="brand2">Camil</string>
+    <string name="product3">Desodorante</string>
+    <string name="brand3">Old Spice</string>
+    <string name="product4">Detergente</string>
+    <string name="brand4">Ypê</string>
+    <string name="product5">Batata Frita Congelada</string>
+    <string name="brand5">Seara</string>
+    <string name="product6">Café</string>
+    <string name="brand6">Gerônymo</string>
+</resources>
